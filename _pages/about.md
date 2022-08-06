@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-**A Health | Data Analyst, a Team Player, a Manager and a Tutor. I am passionate about what I do and this is evident in the results I get.**
+
+
+**A Data Analyst, a Team Player, a Manager and a Tutor. I am passionate about what I do and this is evident in the results I get.**
 
 Wherever and with whoever I work, I make sure I leave an indelible mark by standing out in my job. I delivered more than everyone expected and earned commendations. This is because I love what I do, I am dedicated, committed and result-driven.
 
