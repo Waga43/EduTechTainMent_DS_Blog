@@ -18,7 +18,18 @@ My dream is to use data-driven insights to effect positive changes across all se
 
 My passion for Data Analytics made me recommend the use of data-driven insights to inform management decisions, and budgetary provisions, improve workforce efficiency, and ultimately health outcomes. 
 
-My love for teaching made me to teach medical students and also create a tech blogging site [EduTechTainMent.net](https://edutechtainment.net), a [EduTechTainMent Guides YouTube channel](https://youtube.com/channel/UCAe5662cWJF5NW851ylT-qw) and a [telegram channel](https://t.me/EduTechTainMent_com) where I teach and share beginner-friendly diverse tech ideas/concepts. Currently there are over a 1000 members. 
+My love for teaching made me:
+- Take up appointment as an adjunct lecturer to teach medical students, 
+
+- Create a tech blogging site [EduTechTainMent.net](https://edutechtainment.net), 
+
+- An [EduTechTainMent Guides YouTube channel](https://youtube.com/channel/UCAe5662cWJF5NW851ylT-qw) and 
+
+- A [telegram channel](https://t.me/EduTechTainMent_com)
+
+I teach and share beginner-friendly diverse tech ideas/concepts. 
+
+Currently there are over a 1000 members. 
 
 # MY TECHNICAL & SOFT SKILLS 
 
@@ -33,3 +44,11 @@ My love for teaching made me to teach medical students and also create a tech bl
 General Microsoft Office Suite of applications: Excel, Word, PowerPoint.
 
 **Soft Skills:** Communication skills, Writing, and Storytelling skills, Public speaking, Human resource management, Project management, Team player
+
+You can connect with me on:
+
+1. [LinkedIn](https://www.linkedin.com/in/abdulwasiu)
+
+2. [Personal Twitter handle](https://twitter.com/waga43?t=1laHOp5WE75_1GDYs6oH1w&s=09) and 
+
+3. [EduTechTainMent Twitter handle](https://twitter.com/EduTech_TM?t=N3vf4g5ftogcTXU8Ky_4GA&s=09) 
